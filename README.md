@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! 👋
+## How are you?
+# I'm getting gitty with it.
 
-<!--
-**EdricCantu/EdricCantu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a PNG parser
+- 🌱 I’m currently learning the PNG standard 🤷
+- 👯 I’m looking to collaborate on life
+- 🤔 I’m looking for help with life
+- 💬 Ask me about life
+- 📫 If you wanna reach me: call me, beep me
+- 😄 Pronouns: he/him (hehe)
+- ⚡ Fun fact: Your mom is your mother 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=edriccantu&color=007f00)
+
+foo bar baz
