@@ -7,8 +7,6 @@
 - 💬 Ask me about it
 - 📫 If you wanna reach me: call me, beep me
 - 😄 Pronouns: he/him (hehe)
-- ⚡ Fun fact: Your mom is your mother 
+- ⚡ Fun fact: Your mom is your mother
 
-
-![](https://komarev.com/ghpvc/?username=edriccantu&color=007f00)
-
+<sub><sub>Contribution count is bs, I use gh closer to a file host rather than src control</sub></sub>
